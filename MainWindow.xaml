@@ -13,8 +13,8 @@
                     <Image Width="300" Source="C:\Users\Muhammad Moiz\Desktop\OR Queuing Project\WpfApp1\Images\OR1.png">
                     </Image>
                     <Button Visibility="Hidden" Height="90"></Button>
-                    <Button x:Name="btnAddData"  Height="60" Background="{x:Null}" BorderBrush="Transparent" Foreground="White" FontSize="25" Click="BtnAddDataClicked">Add Data</Button>
-                    <Button x:Name="btnSimulation" Height="60" Background="{x:Null}" BorderBrush="Transparent" Foreground="White" FontSize="25" Click="BtnSimulationClicked">Simulation</Button>
+                    <Button x:Name="btnAddData"  Height="60" Background="{x:Null}" BorderBrush="Transparent" Foreground="White" FontSize="30" Click="BtnAddDataClicked">Add Data</Button>
+                    <Button x:Name="btnSimulation" Height="60" Background="{x:Null}" BorderBrush="Transparent" Foreground="White" FontSize="30" Click="BtnSimulationClicked">Simulation</Button>
                 </StackPanel>
             </Grid>
             <Frame x:Name="Main" DockPanel.Dock="Right" NavigationUIVisibility="Hidden">
